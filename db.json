@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "username": "nishi",
+      "email": "nishi@gmail.com",
+      "password": "1323",
+      "id": "ca68"
+    },
+    {
+      "username": "Nishiha",
+      "email": "nishi@gmail.com",
+      "password": "Nishi13",
+      "id": "112b"
+    },
+    {
+      "id": "1729931112754",
+      "username": "sabur",
+      "email": "sabursyed1@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "1729931426529",
+      "username": "prathi",
+      "email": "prathi@gmail.com",
+      "password": "prathi15"
+    }
+  ]
+}
